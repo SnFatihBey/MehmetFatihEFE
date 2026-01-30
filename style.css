@@ -18,6 +18,10 @@
 img {
   width: 25%;
 }
+em {
+  color: white;
+  background-color: red;
+}
 /* .mizah {
   text-align: right;
 } */
